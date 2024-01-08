@@ -4,10 +4,10 @@
 /cagg_ddl-*.sql
 /cagg_errors_deprecated-*.sql
 /cagg_permissions-*.sql
-/cagg_query-*.sql
 /cagg_repair-*.sql
 /cagg_union_view-*.sql
 /cagg_usage-*.sql
+/cagg_watermark-*.sql
 /compression_bgw-*.sql
 /compression_errors-*.sql
 /compression_sorted_merge-*.sql
